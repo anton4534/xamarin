@@ -1,0 +1,15 @@
+D:\Codenza\C#\Xamarin\AppLifecycleTutorial\AppLifecycleTutorial\bin\Debug\netstandard2.0\AppLifecycleTutorial.deps.json
+D:\Codenza\C#\Xamarin\AppLifecycleTutorial\AppLifecycleTutorial\bin\Debug\netstandard2.0\AppLifecycleTutorial.dll
+D:\Codenza\C#\Xamarin\AppLifecycleTutorial\AppLifecycleTutorial\bin\Debug\netstandard2.0\ref\AppLifecycleTutorial.dll
+D:\Codenza\C#\Xamarin\AppLifecycleTutorial\AppLifecycleTutorial\bin\Debug\netstandard2.0\AppLifecycleTutorial.pdb
+D:\Codenza\C#\Xamarin\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.csproj.AssemblyReference.cache
+D:\Codenza\C#\Xamarin\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codenza\C#\Xamarin\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Codenza\C#\Xamarin\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Codenza\C#\Xamarin\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.AssemblyInfoInputs.cache
+D:\Codenza\C#\Xamarin\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.AssemblyInfo.cs
+D:\Codenza\C#\Xamarin\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.csproj.CoreCompileInputs.cache
+D:\Codenza\C#\Xamarin\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Codenza\C#\Xamarin\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.dll
+D:\Codenza\C#\Xamarin\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\refint\AppLifecycleTutorial.dll
+D:\Codenza\C#\Xamarin\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.pdb
